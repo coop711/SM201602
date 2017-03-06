@@ -25,6 +25,6 @@ kable(class_roll)
 
 <!--
 ```{r, save}
-save.image("./team_1602_data_win.rda")
+save.image("./team_1602_data_win.RData")
 ```
 -->
