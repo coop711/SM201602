@@ -144,6 +144,6 @@ kable(Team_5.names)
 
 <!--
 ```{r, save}
-save.image("./team_1602_data.RData")
+save.image("./team_1602_data_out.RData")
 ```
 -->
